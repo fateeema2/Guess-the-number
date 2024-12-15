@@ -1,6 +1,3 @@
-
-Here's a README description for the code you've provided:
-
 Guess the Number Game
 This is a C++ implementation of the "Guess the Number" game. In this game, the computer randomly selects a number within a given range, and the player must guess the number within a set number of attempts. The game offers multiple difficulty levels, each with different ranges and attempts. It also includes input validation and the option to play again after each round.
 
